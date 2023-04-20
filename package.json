@@ -12,6 +12,7 @@
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@mdi/font": "^7.2.96",
     "core-js": "^3.8.3",
+    "matter-js": "^0.19.0",
     "vue": "^3.2.13",
     "vuetify": "^3.1.14"
   },
